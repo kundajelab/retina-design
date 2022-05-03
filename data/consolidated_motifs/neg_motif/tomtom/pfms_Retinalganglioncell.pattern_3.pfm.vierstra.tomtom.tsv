@@ -1,0 +1,16 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+pfms_Retinalganglioncell.pattern_3.pfm	YY1_MA0095.2	-6	2.313e-06	0.00504003	0.0100801	12	TCCTATTCAGCCATCTTGG	GCCGCCATCTTG	-
+pfms_Retinalganglioncell.pattern_3.pfm	TYY1_HUMAN.H11MO.0.A	-6	8.55937e-06	0.0186509	0.0152088	12	TCCTATTCAGCCATCTTGG	GCCGCCATCTTG	-
+pfms_Retinalganglioncell.pattern_3.pfm	TYY1_MOUSE.H11MO.0.A	-6	1.04696e-05	0.0228132	0.0152088	12	TCCTATTCAGCCATCTTGG	GCCGCCATCTTG	-
+pfms_Retinalganglioncell.pattern_3.pfm	ZFP42_HUMAN.H11MO.0.A	-5	0.000393618	0.857694	0.343078	12	TCCTATTCAGCCATCTTGG	GGCAGCCATTTT	+
+pfms_Retinalganglioncell.pattern_3.pfm	ZFP42_MOUSE.H11MO.0.A	-5	0.000393618	0.857694	0.343078	12	TCCTATTCAGCCATCTTGG	GGCAGCCATTTT	+
+pfms_Retinalganglioncell.pattern_3.pfm	OZF_HUMAN.H11MO.0.C	5	0.000525193	1.1444	0.381465	19	TCCTATTCAGCCATCTTGG	TGGAATACTATGCAGCCATGAAAA	-
+pfms_Retinalganglioncell.pattern_3.pfm	ZN260_HUMAN.H11MO.0.C	5	0.000719375	1.56752	0.447862	19	TCCTATTCAGCCATCTTGG	TGGAATACTATGCAGCCATAAAAA	-
+pfms_Retinalganglioncell.pattern_3.pfm	YY2_C2H2_3	-2	0.000844879	1.84099	0.460248	12	TCCTATTCAGCCATCTTGG	CCATGCCGCCAT	+
+pfms_Retinalganglioncell.pattern_3.pfm	TAF1_HUMAN.H11MO.0.A	-1	0.00236661	5.15684	1	16	TCCTATTCAGCCATCTTGG	CCGCCGCCGCCATCTT	-
+pfms_Retinalganglioncell.pattern_3.pfm	TAF1_MOUSE.H11MO.0.A	-4	0.00337988	7.36476	1	14	TCCTATTCAGCCATCTTGG	CCGCCGCCATCTTG	-
+pfms_Retinalganglioncell.pattern_3.pfm	THAP1_HUMAN.H11MO.0.C	-5	0.00360826	7.86241	1	14	TCCTATTCAGCCATCTTGG	CGCCGCCATCTTGGCTGCGGGC	+
+
+# Tomtom (Motif Comparison Tool): Version 5.0.1 compiled on Jan 10 2020 at 20:04:56
+# The format of this file is described at http://meme-suite.org/doc/tomtom-output-format.html.
+# tomtom -no-ssc -oc . -verbosity 1 -text -min-overlap 5 -mi 1 -dist pearson -evalue -thresh 10.0 meme/pfms_Retinalganglioncell.pattern_3.pfm.meme /srv/www/kundaje/surag/resources/motif_archetypes/pfm_meme_format/motifs.meme.txt

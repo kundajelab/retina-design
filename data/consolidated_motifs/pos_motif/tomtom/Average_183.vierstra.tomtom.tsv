@@ -1,0 +1,12 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+Average_183	TFAP4_bHLH_1	1	0.000491604	1.0712	0.956133	9	TAAGCTGTT	ATCAGCTGTT	-
+Average_183	TFAP4_MA0691.1	1	0.000658192	1.4342	0.956133	9	TAAGCTGTT	ATCAGCTGTT	-
+Average_183	TFAP4_bHLH_2	1	0.000658192	1.4342	0.956133	9	TAAGCTGTT	ATCAGCTGTT	-
+Average_183	MSC_MA0665.1	1	0.00248408	5.41282	1	9	TAAGCTGTT	AACAGCTGTT	+
+Average_183	MSC_bHLH_1	1	0.00248408	5.41282	1	9	TAAGCTGTT	AACAGCTGTT	+
+Average_183	MYF6_MA0667.1	1	0.00342302	7.45875	1	9	TAAGCTGTT	AACAGCTGTT	+
+Average_183	MYF6_bHLH_1	1	0.00342302	7.45875	1	9	TAAGCTGTT	AACAGCTGTT	+
+
+# Tomtom (Motif Comparison Tool): Version 5.0.1 compiled on Jan 10 2020 at 20:04:56
+# The format of this file is described at http://meme-suite.org/doc/tomtom-output-format.html.
+# tomtom -no-ssc -oc . -verbosity 1 -text -min-overlap 5 -mi 1 -dist pearson -evalue -thresh 10.0 meme/Average_183.meme /srv/www/kundaje/surag/resources/motif_archetypes/pfm_meme_format/motifs.meme.txt

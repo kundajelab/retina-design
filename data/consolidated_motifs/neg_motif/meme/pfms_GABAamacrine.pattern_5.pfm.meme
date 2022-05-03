@@ -1,0 +1,15 @@
+MEME version 4
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies
+A 0.25 C 0.25 G 0.25 T 0.25
+
+MOTIF pfms_GABAamacrine.pattern_5.pfm
+letter-probability matrix: alength= 4 w= 2 nsites= 200
+0.2459	0.1148	0.5492	0.0902
+0.2049	0.5164	0.1148	0.1639
+URL none
+

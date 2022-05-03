@@ -1,0 +1,13 @@
+Average_9	pfms_GABAamacrine.pattern_0.pfm,pfms_Retinalganglioncell.pattern_2.pfm,pfms_Mullerglia.pattern_2.pfm
+pfms_Rodbipolar.pattern_0.pfm	pfms_Rodbipolar.pattern_0.pfm
+pfms_Horizontal.pattern_2.pfm	pfms_Horizontal.pattern_2.pfm
+pfms_Retinalganglioncell.pattern_3.pfm	pfms_Retinalganglioncell.pattern_3.pfm
+pfms_GABAamacrine.pattern_5.pfm	pfms_GABAamacrine.pattern_5.pfm
+pfms_Horizontal.pattern_3.pfm	pfms_Horizontal.pattern_3.pfm
+pfms_Mullerglia.pattern_0.pfm	pfms_Mullerglia.pattern_0.pfm
+Average_8	pfms_Mullerglia.pattern_1.pfm,pfms_GABAamacrine.pattern_1.pfm,pfms_Horizontal.pattern_0.pfm,pfms_Astrocyte.pattern_0.pfm,pfms_Retinalganglioncell.pattern_1.pfm
+pfms_GABAamacrine.pattern_6.pfm	pfms_GABAamacrine.pattern_6.pfm
+Average_6	pfms_Horizontal.pattern_4.pfm,pfms_GABAamacrine.pattern_4.pfm
+Average_7	pfms_Retinalganglioncell.pattern_0.pfm,pfms_Horizontal.pattern_1.pfm,pfms_GABAamacrine.pattern_7.pfm
+pfms_GABAamacrine.pattern_3.pfm	pfms_GABAamacrine.pattern_3.pfm
+pfms_GABAamacrine.pattern_2.pfm	pfms_GABAamacrine.pattern_2.pfm

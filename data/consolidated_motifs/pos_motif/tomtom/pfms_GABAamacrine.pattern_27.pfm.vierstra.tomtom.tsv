@@ -1,0 +1,23 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+pfms_GABAamacrine.pattern_27.pfm	RFX3_RFX_2	1	1.56478e-11	3.40966e-08	3.40713e-08	13	GTTGCCTAGCAAC	GGTTGCCTAGCAACG	-
+pfms_GABAamacrine.pattern_27.pfm	Rfx2.mouse_RFX_2	1	1.56478e-11	3.40966e-08	3.40713e-08	13	GTTGCCTAGCAAC	CGTTGCCTAGCAACG	-
+pfms_GABAamacrine.pattern_27.pfm	RFX4_RFX_2	1	3.007e-11	6.55224e-08	4.36493e-08	13	GTTGCCTAGCAAC	CGTTGCCTAGCAACG	-
+pfms_GABAamacrine.pattern_27.pfm	RFX2_RFX_2	1	5.46937e-11	1.19178e-07	5.95447e-08	13	GTTGCCTAGCAAC	CGTTGCCTAGCAACG	-
+pfms_GABAamacrine.pattern_27.pfm	RFX5_HUMAN.H11MO.0.A	0	2.25264e-05	0.049085	0.0108997	13	GTTGCCTAGCAAC	TCTGCCTAGCAACAGCTGAC	-
+pfms_GABAamacrine.pattern_27.pfm	RFX6_MOUSE.H11MO.0.C	-4	0.000216686	0.472158	0.0943618	9	GTTGCCTAGCAAC	CCTGGCAACAG	-
+pfms_GABAamacrine.pattern_27.pfm	STAT1_MA0137.3	-1	0.000590245	1.28614	0.211667	11	GTTGCCTAGCAAC	TTTCCTGGAAA	-
+pfms_GABAamacrine.pattern_27.pfm	STA5B_HUMAN.H11MO.0.A	-1	0.000631876	1.37686	0.211667	12	GTTGCCTAGCAAC	TTTCTTAGAAAT	+
+pfms_GABAamacrine.pattern_27.pfm	STA5B_MOUSE.H11MO.0.A	-1	0.000631876	1.37686	0.211667	12	GTTGCCTAGCAAC	TTTCTTAGAAAT	+
+pfms_GABAamacrine.pattern_27.pfm	STAT4_HUMAN.H11MO.0.A	-1	0.000885665	1.92986	0.275491	11	GTTGCCTAGCAAC	TTTCCTGGAAG	+
+pfms_GABAamacrine.pattern_27.pfm	STA5A_HUMAN.H11MO.0.A	-1	0.000952579	2.07567	0.276551	10	GTTGCCTAGCAAC	TTTCCTAGAA	-
+pfms_GABAamacrine.pattern_27.pfm	Stat4_MA0518.1	2	0.00195898	4.26861	0.501818	12	GTTGCCTAGCAAC	CCATTTCCTGGAAA	-
+pfms_GABAamacrine.pattern_27.pfm	STA5A_MOUSE.H11MO.0.A	-1	0.00236637	5.15633	0.551838	10	GTTGCCTAGCAAC	TTTCTTGGAA	-
+pfms_GABAamacrine.pattern_27.pfm	Bcl6_MA0463.1	-1	0.00240768	5.24634	0.551838	12	GTTGCCTAGCAAC	TTTCCTAGAAAGCA	+
+pfms_GABAamacrine.pattern_27.pfm	Rfx1_MA0509.1	1	0.00308564	6.72362	0.661734	13	GTTGCCTAGCAAC	GTTGCCATGGCAAC	+
+pfms_GABAamacrine.pattern_27.pfm	STAT4_MOUSE.H11MO.0.A	-1	0.00319107	6.95335	0.661734	10	GTTGCCTAGCAAC	TTTCCCGGAA	+
+pfms_GABAamacrine.pattern_27.pfm	NFIB_MOUSE.H11MO.0.C	-4	0.00356178	7.76112	0.698765	9	GTTGCCTAGCAAC	CCTGGCAGC	+
+pfms_GABAamacrine.pattern_27.pfm	STAT3_MA0144.2	-1	0.00401149	8.74103	0.698765	11	GTTGCCTAGCAAC	TTTCCCAGAAG	-
+
+# Tomtom (Motif Comparison Tool): Version 5.0.1 compiled on Jan 10 2020 at 20:04:56
+# The format of this file is described at http://meme-suite.org/doc/tomtom-output-format.html.
+# tomtom -no-ssc -oc . -verbosity 1 -text -min-overlap 5 -mi 1 -dist pearson -evalue -thresh 10.0 meme/pfms_GABAamacrine.pattern_27.pfm.meme /srv/www/kundaje/surag/resources/motif_archetypes/pfm_meme_format/motifs.meme.txt

@@ -1,0 +1,1 @@
+for x in `ls /srv/scratch/surag/tmp/retina/peaks/gc_neg` ; do y=$(basename -s ".gc.neg.bed" $x); bedtools intersect -a /srv/scratch/surag/tmp/retina/peaks/gc_neg/$x -b /srv/scratch/surag/tmp/retina/peaks/peaks_3000/*bed -v > $x.filt.neg.bed ; done

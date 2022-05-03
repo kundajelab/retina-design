@@ -1,0 +1,10 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+Average_163	ZBTB33_MA0527.1	1	9.89417e-08	0.000215594	0.000200112	12	TCTCGCGAGATT	CTCTCGCGAGATCTG	+
+Average_163	KAISO_HUMAN.H11MO.0.A	1	1.37755e-07	0.000300168	0.000200112	12	TCTCGCGAGATT	TTCTCGCGAGATTTG	-
+Average_163	KAISO_MOUSE.H11MO.0.B	1	1.37755e-07	0.000300168	0.000200112	12	TCTCGCGAGATT	TTCTCGCGAGATTTG	-
+Average_163	ZBED1_MA0749.1	2	0.000711249	1.54981	0.387453	11	TCTCGCGAGATT	TATGTCGCGATAG	-
+Average_163	ZBED1_znf_BED_1	2	0.000711249	1.54981	0.387453	11	TCTCGCGAGATT	TATGTCGCGATAG	-
+
+# Tomtom (Motif Comparison Tool): Version 5.0.1 compiled on Jan 10 2020 at 20:04:56
+# The format of this file is described at http://meme-suite.org/doc/tomtom-output-format.html.
+# tomtom -no-ssc -oc . -verbosity 1 -text -min-overlap 5 -mi 1 -dist pearson -evalue -thresh 10.0 meme/Average_163.meme /srv/www/kundaje/surag/resources/motif_archetypes/pfm_meme_format/motifs.meme.txt

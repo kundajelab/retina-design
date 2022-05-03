@@ -1,0 +1,5 @@
+- Used `modisco_to_pfm.py` to extract modisco counts motifs in `pfms/` with at least 50 seqlets (I think) [~/oak/projects/retina_Howard/models/20220202_bpnet/fold0/modisco/].
+- `(for x in `ls pfms/*` ; do printf ">$x\n" ; cat $x ; done) | sed "s/\//_/" > ../modisco.counts.pfm`
+- Clustered using gimme cluster.
+- `python pfms_to_meme.py -i gimme_cluster_0.999/clustered_motifs.pfm -o meme/`
+- `for x in $(ls meme/*) ; do (y=$(basename -s ".meme" $x) ; tomtom -no-ssc -oc . -verbosity 1 -text -min-overlap 5 -mi 1 -dist pearson -evalue -thresh 10.0 $x /srv/www/kundaje/surag/resources/motif_archetypes/pfm_meme_format/motifs.meme.txt  > tomtom/$y.vierstra.tomtom.tsv) & done`

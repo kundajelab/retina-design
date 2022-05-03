@@ -1,0 +1,23 @@
+MEME version 4
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies
+A 0.25 C 0.25 G 0.25 T 0.25
+
+MOTIF pfms_Retinalganglioncell.pattern_2.pfm
+letter-probability matrix: alength= 4 w= 10 nsites= 200
+0.0673	0.3426	0.0651	0.5249
+0.0025	0.9927	0.0032	0.0016
+0.0435	0.4902	0.0019	0.4644
+0.0216	0.8930	0.0044	0.0810
+0.2587	0.3254	0.0283	0.3876
+0.3909	0.0299	0.3010	0.2782
+0.0568	0.0019	0.9286	0.0127
+0.0644	0.0006	0.9283	0.0067
+0.0029	0.0044	0.9908	0.0019
+0.8333	0.0435	0.1032	0.0200
+URL none
+
