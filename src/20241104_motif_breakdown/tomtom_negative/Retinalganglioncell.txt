@@ -1,0 +1,5 @@
+Pattern	num_seqlets	match_1	q-value
+pattern_0	246	ZBTB7	6.93399e-20
+pattern_1	218	SNAI	0.000323808
+pattern_2	205	NFY	6.54982e-08
+pattern_3	136	UNKNOWN(ttCTTga)	0.164531

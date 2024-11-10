@@ -1,0 +1,16 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+negative_Horizontal_pattern_2.pfm	STAT6_HUMAN.H11MO.0.B	0	0.000934174	2.03557	1	8	CTTCTTGA	TTTCCTGAGAA	-
+negative_Horizontal_pattern_2.pfm	ZFP28_HUMAN.H11MO.0.C	8	0.00123902	2.69983	1	8	CTTCTTGA	TTCTATTTCTTCTTGTGTCA	+
+negative_Horizontal_pattern_2.pfm	ZN680_HUMAN.H11MO.0.C	7	0.00123902	2.69983	1	8	CTTCTTGA	CCTCATTCTTCTTGGACATG	-
+negative_Horizontal_pattern_2.pfm	Nr2e1.mouse_nuclearreceptor_2	3	0.00126845	2.76396	1	8	CTTCTTGA	TGACTTATTGACTT	-
+negative_Horizontal_pattern_2.pfm	Stat6_MA0520.1	2	0.00152814	3.32982	1	8	CTTCTTGA	CATTTCCTGAGAAAT	+
+negative_Horizontal_pattern_2.pfm	NR2E1_nuclearreceptor_2	3	0.00174684	3.80637	1	8	CTTCTTGA	TGACTTATTGACTT	-
+negative_Horizontal_pattern_2.pfm	NR1I3_HUMAN.H11MO.0.C	6	0.00248987	5.42544	1	8	CTTCTTGA	CTGAACTTTCCTGACCCC	-
+negative_Horizontal_pattern_2.pfm	NR1I3_MOUSE.H11MO.0.C	6	0.00248987	5.42544	1	8	CTTCTTGA	CTGAACTTTCCTGACCCC	-
+negative_Horizontal_pattern_2.pfm	STA5A_MOUSE.H11MO.0.A	0	0.00286812	6.24963	1	8	CTTCTTGA	TTTCTTGGAA	-
+negative_Horizontal_pattern_2.pfm	STAT3_MA0144.2	0	0.00306089	6.66968	1	8	CTTCTTGA	CTTCTGGGAAA	+
+negative_Horizontal_pattern_2.pfm	ETV4_MOUSE.H11MO.0.B	1	0.00434821	9.47474	1	7	CTTCTTGA	ACTTCCTG	-
+
+# Tomtom (Motif Comparison Tool): Version 5.3.0 compiled on Dec 15 2020 at 00:02:11
+# The format of this file is described at http://meme-suite.org/doc/tomtom-output-format.html.
+# tomtom -no-ssc -oc . -verbosity 1 -text -min-overlap 5 -mi 1 -dist pearson -evalue -thresh 10.0 gimme_cluster_counts_negative/meme/negative_Horizontal_pattern_2.pfm.meme /srv/www/kundaje/surag/resources/motif_archetypes/pfm_meme_format/motifs.meme.txt

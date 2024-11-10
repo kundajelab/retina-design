@@ -1,0 +1,20 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+Average_251	RHOXF1_homeodomain_1	0	3.16906e-05	0.0690537	0.0875832	9	AGATTATCCTGGATTA	GGATTATCC	-
+Average_251	RHOXF1_homeodomain_3	0	4.01942e-05	0.0875832	0.0875832	9	AGATTATCCTGGATTA	GGATTATCC	-
+Average_251	PITX1_homeodomain_3	-9	0.000819742	1.78622	0.595406	7	AGATTATCCTGGATTA	GGGATTAA	-
+Average_251	Pitx1_MA0682.1	-9	0.000819742	1.78622	0.595406	7	AGATTATCCTGGATTA	GGGATTAA	-
+Average_251	DPRX_homeodomain_2	1	0.00107574	2.34404	0.649069	10	AGATTATCCTGGATTA	GGGATTATCCC	-
+Average_251	RHOXF1_MA0719.1	-9	0.00134044	2.92081	0.649069	7	AGATTATCCTGGATTA	GGGATTAT	-
+Average_251	RHOXF1_homeodomain_2	-9	0.00134044	2.92081	0.649069	7	AGATTATCCTGGATTA	GGGATTAT	-
+Average_251	SPDEF_ETS_2	-2	0.00174248	3.79685	0.690337	14	AGATTATCCTGGATTA	ATAATCCGGGACCAC	-
+Average_251	SPDEF_ETS_5	-2	0.00174248	3.79685	0.690337	14	AGATTATCCTGGATTA	ATGATCCGGGACCAC	-
+Average_251	DPRX_homeodomain_1	2	0.00224224	4.88585	0.814308	8	AGATTATCCTGGATTA	ACGGATTAGC	+
+Average_251	RHOXF1_homeodomain_4	-9	0.00251932	5.48961	0.844555	7	AGATTATCCTGGATTA	GGGATTAA	-
+Average_251	PITX1_homeodomain_2	-9	0.00306557	6.67987	0.954268	7	AGATTATCCTGGATTA	GGGATTAAG	-
+Average_251	Otx1.mouse_homeodomain_2	1	0.00355423	7.74466	1	7	AGATTATCCTGGATTA	CGGATTAA	-
+Average_251	Mecom_MA0029.1	-1	0.00424977	9.26025	1	14	AGATTATCCTGGATTA	TATTATCTTATCTT	-
+Average_251	PITX1_homeodomain_1	-9	0.00452662	9.86351	1	7	AGATTATCCTGGATTA	GGGATTAAG	-
+
+# Tomtom (Motif Comparison Tool): Version 5.3.0 compiled on Dec 15 2020 at 00:02:11
+# The format of this file is described at http://meme-suite.org/doc/tomtom-output-format.html.
+# tomtom -no-ssc -oc . -verbosity 1 -text -min-overlap 5 -mi 1 -dist pearson -evalue -thresh 10.0 gimme_cluster_counts/meme/Average_251.meme /srv/www/kundaje/surag/resources/motif_archetypes/pfm_meme_format/motifs.meme.txt

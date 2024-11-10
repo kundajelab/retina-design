@@ -1,0 +1,12 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+OFFconebipolar_pattern_22.pfm	Otx1.mouse_homeodomain_1	-11	0.00089164	1.94288	1	15	TTGCTGAAGCTGCTTATCAGCTTAAGGAGA	GTTAATCGGATTAAC	-
+OFFconebipolar_pattern_22.pfm	OTX1_homeodomain_1	-11	0.00107255	2.33709	1	15	TTGCTGAAGCTGCTTATCAGCTTAAGGAGA	GTTAATCCGATTAAC	+
+OFFconebipolar_pattern_22.pfm	OTX2_homeodomain_1	-11	0.00207079	4.51226	1	15	TTGCTGAAGCTGCTTATCAGCTTAAGGAGA	GTTAATCGGATTAAC	-
+OFFconebipolar_pattern_22.pfm	ZN708_HUMAN.H11MO.0.C	-2	0.0026068	5.68022	1	20	TTGCTGAAGCTGCTTATCAGCTTAAGGAGA	GCTGTACCTGCTTATTAGGC	-
+OFFconebipolar_pattern_22.pfm	ISX_homeodomain_1	-12	0.00331929	7.23274	1	13	TTGCTGAAGCTGCTTATCAGCTTAAGGAGA	TTAATTAGATTAA	-
+OFFconebipolar_pattern_22.pfm	SIX1_MA1118.1	-14	0.00394428	8.59458	1	11	TTGCTGAAGCTGCTTATCAGCTTAAGGAGA	TATCAGGTTAC	-
+OFFconebipolar_pattern_22.pfm	Arx.mouse_homeodomain_1	-12	0.00398193	8.67662	1	13	TTGCTGAAGCTGCTTATCAGCTTAAGGAGA	CTAATTAAATTAA	+
+
+# Tomtom (Motif Comparison Tool): Version 5.3.0 compiled on Dec 15 2020 at 00:02:11
+# The format of this file is described at http://meme-suite.org/doc/tomtom-output-format.html.
+# tomtom -no-ssc -oc . -verbosity 1 -text -min-overlap 5 -mi 1 -dist pearson -evalue -thresh 10.0 gimme_cluster_counts/meme/OFFconebipolar_pattern_22.pfm.meme /srv/www/kundaje/surag/resources/motif_archetypes/pfm_meme_format/motifs.meme.txt

@@ -1,0 +1,42 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+negative_Rodbipolar_pattern_0.pfm	OTX2_MA0712.1	1	6.56157e-06	0.0142977	0.00759159	6	TAATCC	TTAATCCT	+
+negative_Rodbipolar_pattern_0.pfm	OTX2_homeodomain_2	1	6.56157e-06	0.0142977	0.00759159	6	TAATCC	TTAATCCT	+
+negative_Rodbipolar_pattern_0.pfm	Otx1.mouse_homeodomain_2	1	6.56157e-06	0.0142977	0.00759159	6	TAATCC	TTAATCCG	+
+negative_Rodbipolar_pattern_0.pfm	PITX1_homeodomain_2	2	8.74875e-06	0.0190635	0.00759159	6	TAATCC	CTTAATCCC	+
+negative_Rodbipolar_pattern_0.pfm	DPRX_homeodomain_2	4	1.31231e-05	0.0285952	0.00759159	6	TAATCC	GGGATAATCCC	+
+negative_Rodbipolar_pattern_0.pfm	Crx_MA0467.1	1	1.31231e-05	0.0285952	0.00759159	6	TAATCC	CTAATCCTCTT	-
+negative_Rodbipolar_pattern_0.pfm	OTX2_HUMAN.H11MO.0.A	2	1.31231e-05	0.0285952	0.00759159	6	TAATCC	GTTAATCCCCT	-
+negative_Rodbipolar_pattern_0.pfm	OTX2_MOUSE.H11MO.0.A	1	1.53103e-05	0.0333611	0.00759159	6	TAATCC	TTAATCCTCTTA	-
+negative_Rodbipolar_pattern_0.pfm	CRX_HUMAN.H11MO.0.B	2	1.74974e-05	0.0381269	0.00759159	6	TAATCC	CCTAATCCTCTTA	-
+negative_Rodbipolar_pattern_0.pfm	CRX_MOUSE.H11MO.0.A	2	1.74974e-05	0.0381269	0.00759159	6	TAATCC	CCTAATCCTCTTA	-
+negative_Rodbipolar_pattern_0.pfm	PITX1_homeodomain_3	1	2.28087e-05	0.0497002	0.00824667	6	TAATCC	TTAATCCC	+
+negative_Rodbipolar_pattern_0.pfm	Pitx1_MA0682.1	1	2.28087e-05	0.0497002	0.00824667	6	TAATCC	TTAATCCC	+
+negative_Rodbipolar_pattern_0.pfm	PITX1_homeodomain_1	2	3.04115e-05	0.0662667	0.00879641	6	TAATCC	CTTAATCCC	+
+negative_Rodbipolar_pattern_0.pfm	PITX3_MA0714.1	2	3.04115e-05	0.0662667	0.00879641	6	TAATCC	CTTAATCCC	+
+negative_Rodbipolar_pattern_0.pfm	PITX3_homeodomain_1	2	3.04115e-05	0.0662667	0.00879641	6	TAATCC	CTTAATCCC	+
+negative_Rodbipolar_pattern_0.pfm	DPRX_homeodomain_1	2	3.80142e-05	0.082833	0.0103083	6	TAATCC	GCTAATCCGT	-
+negative_Rodbipolar_pattern_0.pfm	GSC2_MA0891.1	2	0.00010825	0.235876	0.0223649	6	TAATCC	CCTAATCCGC	+
+negative_Rodbipolar_pattern_0.pfm	GSC2_homeodomain_1	2	0.00010825	0.235876	0.0223649	6	TAATCC	CCTAATCCGC	+
+negative_Rodbipolar_pattern_0.pfm	GSC_MA0648.1	2	0.00010825	0.235876	0.0223649	6	TAATCC	GCTAATCCCC	+
+negative_Rodbipolar_pattern_0.pfm	GSC_homeodomain_1	2	0.00010825	0.235876	0.0223649	6	TAATCC	GCTAATCCCC	+
+negative_Rodbipolar_pattern_0.pfm	DMBX1_homeodomain_1	2	0.00010825	0.235876	0.0223649	6	TAATCC	GTTAATCCGC	-
+negative_Rodbipolar_pattern_0.pfm	PITX1_MOUSE.H11MO.0.C	2	0.000200672	0.437264	0.037571	6	TAATCC	GTTAATCCCT	-
+negative_Rodbipolar_pattern_0.pfm	OTX1_homeodomain_1	2	0.000216488	0.471727	0.037571	6	TAATCC	GTTAATCCGATTAAC	+
+negative_Rodbipolar_pattern_0.pfm	OTX2_homeodomain_1	2	0.000216488	0.471727	0.037571	6	TAATCC	GTTAATCCGATTAAC	+
+negative_Rodbipolar_pattern_0.pfm	Otx1.mouse_homeodomain_1	2	0.000216488	0.471727	0.037571	6	TAATCC	GTTAATCCGATTAAC	+
+negative_Rodbipolar_pattern_0.pfm	Dmbx1_MA0883.1	5	0.00025978	0.56606	0.0433502	6	TAATCC	TTCATTAATCCGGTTCA	-
+negative_Rodbipolar_pattern_0.pfm	OTX1_MA0711.1	1	0.000285243	0.621545	0.0441994	6	TAATCC	TTAATCCG	+
+negative_Rodbipolar_pattern_0.pfm	OTX1_homeodomain_2	1	0.000285243	0.621545	0.0441994	6	TAATCC	TTAATCCG	+
+negative_Rodbipolar_pattern_0.pfm	RHOXF1_homeodomain_1	3	0.000380306	0.828687	0.0568976	6	TAATCC	GGATAATCC	+
+negative_Rodbipolar_pattern_0.pfm	RHOXF1_homeodomain_3	3	0.00066229	1.44313	0.0957824	6	TAATCC	GGATAATCC	+
+negative_Rodbipolar_pattern_0.pfm	RHOXF1_homeodomain_4	1	0.000874328	1.90516	0.122369	6	TAATCC	TTAATCCC	+
+negative_Rodbipolar_pattern_0.pfm	SPDEF_ETS_2	1	0.000950494	2.07113	0.128872	6	TAATCC	ATAATCCGGGACCAC	-
+negative_Rodbipolar_pattern_0.pfm	RHOXF1_MA0719.1	1	0.00104634	2.27998	0.133522	6	TAATCC	ATAATCCC	+
+negative_Rodbipolar_pattern_0.pfm	RHOXF1_homeodomain_2	1	0.00104634	2.27998	0.133522	6	TAATCC	ATAATCCC	+
+negative_Rodbipolar_pattern_0.pfm	ZN264_HUMAN.H11MO.0.C	14	0.00280852	6.11976	0.348151	6	TAATCC	TCTTATAAGGGCACTAATCCCATT	+
+negative_Rodbipolar_pattern_0.pfm	SPDEF_ETS_5	1	0.00430066	9.37113	0.491032	6	TAATCC	ATGATCCGGGACCAC	-
+negative_Rodbipolar_pattern_0.pfm	PROP1_homeodomain_2	0	0.00457545	9.96991	0.498519	6	TAATCC	TAATCTAATTA	+
+
+# Tomtom (Motif Comparison Tool): Version 5.3.0 compiled on Dec 15 2020 at 00:02:11
+# The format of this file is described at http://meme-suite.org/doc/tomtom-output-format.html.
+# tomtom -no-ssc -oc . -verbosity 1 -text -min-overlap 5 -mi 1 -dist pearson -evalue -thresh 10.0 gimme_cluster_counts_negative/meme/negative_Rodbipolar_pattern_0.pfm.meme /srv/www/kundaje/surag/resources/motif_archetypes/pfm_meme_format/motifs.meme.txt

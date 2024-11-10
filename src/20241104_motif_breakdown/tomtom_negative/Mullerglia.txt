@@ -1,0 +1,4 @@
+Pattern	num_seqlets	match_1	q-value
+pattern_0	190	UNKNOWN(ATAT)	4.84963e-20
+pattern_1	117	SNAI	0.000369632
+pattern_2	108	NFY	1.16604e-06

@@ -1,0 +1,6 @@
+Pattern	num_seqlets	match_1	q-value
+pattern_0	552	SNAI	1.89433e-09
+pattern_1	222	ZBTB7	2.19265e-06
+pattern_2	159	UNKNOWN(ttCTTga)	3.41245e-16
+pattern_3	128	UNKNOWN(AT-RICH)	1.1258e-32
+pattern_4	108	UNKNOWN:ZNF	1.62067e-16

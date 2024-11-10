@@ -1,0 +1,13 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+negative_Mullerglia_pattern_0.pfm	SRF_MADS_1	0	0.00129609	2.82418	1	9	TCTATATAT	GCCATATATGGT	-
+negative_Mullerglia_pattern_0.pfm	HLTF_MA0109.1	1	0.00190338	4.14746	1	9	TCTATATAT	AACCTTATAT	+
+negative_Mullerglia_pattern_0.pfm	CDX1_HUMAN.H11MO.0.C	-1	0.00232814	5.07302	1	8	TCTATATAT	ACATAAAT	-
+negative_Mullerglia_pattern_0.pfm	CDX1_MOUSE.H11MO.0.C	-1	0.00232814	5.07302	1	8	TCTATATAT	ACATAAAT	-
+negative_Mullerglia_pattern_0.pfm	Bhlha15_MA0607.1	-1	0.0028109	6.12494	1	8	TCTATATAT	CCATATGT	+
+negative_Mullerglia_pattern_0.pfm	Twist2_MA0633.1	0	0.00394898	8.60483	1	9	TCTATATAT	ACCATATGTT	+
+negative_Mullerglia_pattern_0.pfm	SRF_MA0083.3	2	0.00422537	9.20707	1	9	TCTATATAT	TGACCATATATGGTCA	-
+negative_Mullerglia_pattern_0.pfm	SRF_MADS_2	2	0.00422537	9.20707	1	9	TCTATATAT	TGACCATATATGGTCA	-
+
+# Tomtom (Motif Comparison Tool): Version 5.3.0 compiled on Dec 15 2020 at 00:02:11
+# The format of this file is described at http://meme-suite.org/doc/tomtom-output-format.html.
+# tomtom -no-ssc -oc . -verbosity 1 -text -min-overlap 5 -mi 1 -dist pearson -evalue -thresh 10.0 gimme_cluster_counts_negative/meme/negative_Mullerglia_pattern_0.pfm.meme /srv/www/kundaje/surag/resources/motif_archetypes/pfm_meme_format/motifs.meme.txt

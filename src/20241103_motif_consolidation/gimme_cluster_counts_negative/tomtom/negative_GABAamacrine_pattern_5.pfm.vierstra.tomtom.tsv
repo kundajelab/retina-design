@@ -1,0 +1,10 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+negative_GABAamacrine_pattern_5.pfm	POU2F3_POU_1	4	0.000690996	1.50568	0.940968	2	GC	ATTTGCATA	-
+negative_GABAamacrine_pattern_5.pfm	POU5F1B_MA0792.1	4	0.000690996	1.50568	0.940968	2	GC	ATTTGCATA	-
+negative_GABAamacrine_pattern_5.pfm	POU5F1P1_POU_1	4	0.000690996	1.50568	0.940968	2	GC	ATTTGCATA	-
+negative_GABAamacrine_pattern_5.pfm	POU2F2_POU_1	5	0.00086367	1.88194	0.940968	2	GC	AATTTGCATAT	-
+negative_GABAamacrine_pattern_5.pfm	SOX8_HMG_4	7	0.00138151	3.01032	1	2	GC	GATCACTGCAATTGATG	-
+
+# Tomtom (Motif Comparison Tool): Version 5.3.0 compiled on Dec 15 2020 at 00:02:11
+# The format of this file is described at http://meme-suite.org/doc/tomtom-output-format.html.
+# tomtom -no-ssc -oc . -verbosity 1 -text -min-overlap 5 -mi 1 -dist pearson -evalue -thresh 10.0 gimme_cluster_counts_negative/meme/negative_GABAamacrine_pattern_5.pfm.meme /srv/www/kundaje/surag/resources/motif_archetypes/pfm_meme_format/motifs.meme.txt

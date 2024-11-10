@@ -1,0 +1,22 @@
+MEME version 4
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies
+A 0.25 C 0.25 G 0.25 T 0.25
+
+MOTIF Cone_pattern_19.pfm
+letter-probability matrix: alength= 4 w= 9 nsites= 200
+0.4180	0.0656	0.3934	0.1230
+0.0902	0.0000	0.8688	0.0410
+0.0000	0.0000	0.9836	0.0164
+0.9918	0.0082	0.0000	0.0000
+0.0000	0.0000	0.0000	1.0000
+0.0082	0.0000	0.0000	0.9918
+0.0574	0.0000	0.0000	0.9426
+0.9754	0.0000	0.0164	0.0082
+0.5328	0.0656	0.3770	0.0246
+URL none
+

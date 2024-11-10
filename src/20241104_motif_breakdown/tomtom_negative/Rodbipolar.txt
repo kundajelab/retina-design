@@ -1,0 +1,2 @@
+Pattern	num_seqlets	match_1	q-value
+pattern_0	255	OTX	4.3374e-19

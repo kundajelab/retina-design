@@ -1,0 +1,2 @@
+Pattern	num_seqlets	match_1	q-value
+pattern_0	789	SNAI	1.98084e-14

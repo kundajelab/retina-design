@@ -1,0 +1,19 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+Cone_pattern_19.pfm	PITX1_homeodomain_2	0	0.000181126	0.394673	0.789346	9	AGGATTTAA	GGGATTAAG	-
+Cone_pattern_19.pfm	PITX1_homeodomain_3	0	0.000793821	1.72974	1	8	AGGATTTAA	GGGATTAA	-
+Cone_pattern_19.pfm	Pitx1_MA0682.1	0	0.000793821	1.72974	1	8	AGGATTTAA	GGGATTAA	-
+Cone_pattern_19.pfm	OTX2_MA0712.1	0	0.00133585	2.91081	1	8	AGGATTTAA	AGGATTAA	-
+Cone_pattern_19.pfm	OTX2_homeodomain_2	0	0.00133585	2.91081	1	8	AGGATTTAA	AGGATTAA	-
+Cone_pattern_19.pfm	BARHL2_homeodomain_2	0	0.00178757	3.89513	1	9	AGGATTTAA	AGCAATTAAC	-
+Cone_pattern_19.pfm	OTX2_MOUSE.H11MO.0.A	4	0.00181096	3.94607	1	8	AGGATTTAA	TAAGAGGATTAA	+
+Cone_pattern_19.pfm	OTX2_HUMAN.H11MO.0.A	2	0.00192741	4.19983	1	9	AGGATTTAA	AGGGGATTAAC	+
+Cone_pattern_19.pfm	PITX1_MOUSE.H11MO.0.C	1	0.00226262	4.93024	1	9	AGGATTTAA	AGGGATTAAC	+
+Cone_pattern_19.pfm	MZF1_HUMAN.H11MO.0.B	4	0.00320104	6.97507	1	9	AGGATTTAA	GGAGGGGATTGGG	+
+Cone_pattern_19.pfm	BARHL2_homeodomain_5	0	0.00355656	7.74973	1	9	AGGATTTAA	AGCAATTAGC	-
+Cone_pattern_19.pfm	RHOXF1_homeodomain_4	0	0.00357389	7.7875	1	8	AGGATTTAA	GGGATTAA	-
+Cone_pattern_19.pfm	Barhl1.mouse_homeodomain_2	0	0.0044159	9.62224	1	9	AGGATTTAA	AGCAATTAGC	-
+Cone_pattern_19.pfm	Barhl1_MA0877.1	0	0.0044159	9.62224	1	9	AGGATTTAA	AGCAATTAGC	-
+
+# Tomtom (Motif Comparison Tool): Version 5.3.0 compiled on Dec 15 2020 at 00:02:11
+# The format of this file is described at http://meme-suite.org/doc/tomtom-output-format.html.
+# tomtom -no-ssc -oc . -verbosity 1 -text -min-overlap 5 -mi 1 -dist pearson -evalue -thresh 10.0 gimme_cluster_counts/meme/Cone_pattern_19.pfm.meme /srv/www/kundaje/surag/resources/motif_archetypes/pfm_meme_format/motifs.meme.txt
